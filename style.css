@@ -1,0 +1,43 @@
+.numb_id {
+  font-size: 5em;
+}
+#message {
+  text-align: center;
+  font-size: larger;
+  font-style: oblique;
+  font-weight: bold;
+}
+
+.game {
+  text-align: center;
+}
+
+#btn {
+  text-align: center;
+}
+
+#start_btn {
+  font-size: x-large;
+  background-color: white;
+  border-color: #ff9900fb;
+  color: orange;
+  border-radius: 5px;
+  border-style: solid;
+}
+
+#start_btn:hover {
+  background: #ff9800;
+  color: white;
+}
+
+#finished_game {
+  text-align: center;
+  font-size: 7em;
+  color: blueviolet;
+}
+
+#welcome {
+  text-align: center;
+  font-size: 5em;
+  text-shadow: 2px 2px 8px orange;
+}
